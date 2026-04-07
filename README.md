@@ -4,7 +4,7 @@
 
 # Heyo, I'm Jason Zhang! 👋
 
-### 🎨 Product Designer | 🛠️ Design Engineer | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" align="center" /> Campus Leader
+### 🎨 Product Designer  |  🛠️ Design Engineer  |  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" align="center" /> Campus Leader
 
 Building user-focused products with a focus on data-driven design.
 
@@ -58,7 +58,7 @@ Building user-focused products with a focus on data-driven design.
 - 📈 **Impact** | Constructed the design system and branding guidelines; helping 30,000+ students at UC Davis make better course schedule decisions.
 - 💻 **Stack** | React, Tailwind CSS, TypeScript, Vite.
 
-### 📊 [Figma Activity Tracker](https://figma-tracker-production.up.railway.app/)
+### 📊 [Fimanu](https://figma-tracker-production.up.railway.app/)
 *An interactive dashboard displaying real-time Figma file edit history as a contribution heatmap.*
 
 - 🛠️ **Role** | Full-Stack Developer & Designer
