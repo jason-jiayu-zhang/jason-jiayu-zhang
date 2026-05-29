@@ -50,7 +50,7 @@ Building user-focused products with a focus on data-driven design.
   <img src="https://img.shields.io/badge/PostHog-F0AD4E?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" height="40" />
 </p>
 
-## Projects
+## Products
 
 ### 🐮 [Cattlelog](https://daviscattlelog.com)
 *A UC Davis course and professor catalog reaching 25,000 students.*
