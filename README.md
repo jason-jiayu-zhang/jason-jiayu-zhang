@@ -68,7 +68,7 @@ Building user-focused products with a focus on data-driven design.
 ## Can't Wait to Chat!
 
 - <a href="https://linkedin.com/in/jasonjiayuzhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" align="center" /></a> &nbsp; [linkedin.com/in/jasonjiayuzhang](https://linkedin.com/in/jasonjiayuzhang)
-- <a href="https://jjz.figma.site"><img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" align="center" /></a> &nbsp; [jjz.figma.site](https://jjz.figma.site)
+- <a href="https://jason.zhangjiayu.com"><img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" align="center" /></a> &nbsp; [jjz.figma.site](https://jason.zhangjiayu.com)
 - <a href="mailto:jason.jiayu.zhang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" align="center" /></a> &nbsp; [jason.jiayu.zhang@gmail.com](mailto:jason.jiayu.zhang@gmail.com)
 
 <mark>*"To nurture others fall to in love with the art of making as I have fallen."*</mark>
